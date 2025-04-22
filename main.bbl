@@ -1,0 +1,161 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{podlubny1999fractional}{book}{}
+      \name{author}{1}{}{%
+        {{hash=321a40a9f440032a1894de39786f4a13}{%
+           family={Podlubny},
+           familyi={P\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{321a40a9f440032a1894de39786f4a13}
+      \strng{fullhash}{321a40a9f440032a1894de39786f4a13}
+      \strng{bibnamehash}{321a40a9f440032a1894de39786f4a13}
+      \strng{authorbibnamehash}{321a40a9f440032a1894de39786f4a13}
+      \strng{authornamehash}{321a40a9f440032a1894de39786f4a13}
+      \strng{authorfullhash}{321a40a9f440032a1894de39786f4a13}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780125588409}
+      \field{title}{Fractional Differential Equations: An Introduction to Fractional Derivatives, Fractional Differential Equations, to Methods of Their Solution and Some of Their Applications}
+      \field{year}{1999}
+    \endentry
+    \entry{li2012finite}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c1ed111b3effe465059ca26a1ab2f6dd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Changpin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c979fb369eb863ca28dfb2a98996e40a}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Fanhai},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \strng{fullhash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \strng{bibnamehash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \strng{authorbibnamehash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \strng{authornamehash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \strng{authorfullhash}{0b4fde57de315130a2c8bd0caf45c12f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Bifurcation and Chaos}
+      \field{number}{4}
+      \field{title}{Finite Difference Methods for Fractional Differential Equations}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{1230014}
+      \range{pages}{1}
+    \endentry
+    \entry{aburn2019fodeint}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d9ff2a837a14b4161c9a41cfaa7ad2d0}{%
+           family={Aburn},
+           familyi={A\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \strng{fullhash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \strng{bibnamehash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \strng{authorbibnamehash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \strng{authornamehash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \strng{authorfullhash}{d9ff2a837a14b4161c9a41cfaa7ad2d0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/mattja/fodeint}}
+      \field{journaltitle}{GitHub repository}
+      \field{title}{fodeint: Numerical integration of fractional ordinary differential equations}
+      \field{year}{2019}
+    \endentry
+    \entry{LIU2024106124}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4f1e33032cdd17c1c4c17fe05bd0772d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=80d0daf084d005c7158916fe316a71a8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lili},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2396990c066a3f0ab4bfd849fbc04cbb}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanfeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c9e4f2f7711c480ec01c7e388ea654cd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Honglin},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e58ef8f444141f003125d39d6d0449b7}
+      \strng{fullhash}{c35b0bee4bdcadd5ac5a47d3aff46d83}
+      \strng{bibnamehash}{e58ef8f444141f003125d39d6d0449b7}
+      \strng{authorbibnamehash}{e58ef8f444141f003125d39d6d0449b7}
+      \strng{authornamehash}{e58ef8f444141f003125d39d6d0449b7}
+      \strng{authorfullhash}{c35b0bee4bdcadd5ac5a47d3aff46d83}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0893-6080}
+      \field{journaltitle}{Neural Networks}
+      \field{title}{Event-triggered hybrid impulsive control for synchronization of fractional-order multilayer signed networks under cyber attacks}
+      \field{volume}{172}
+      \field{year}{2024}
+      \field{pages}{106124}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608024000406
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608024000406
+      \endverb
+      \keyw{Hybrid impulsive control,Event-triggered control,Fractional-order signed networks,Exponential bipartite synchronization,Zeno behavior}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
