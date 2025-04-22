@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Debian) (preloaded format=xelatex 2024.6.9)  23 APR 2025 01:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Debian) (preloaded format=xelatex 2024.6.9)  23 APR 2025 01:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2339,21 +2339,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 731.
+(Font)              scaled to size 7.0pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 731.
+(Font)              scaled to size 5.0pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 731.
+(Font)              scaled to size 10.00092pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 731.
+(Font)              scaled to size 7.00064pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 731.
+(Font)              scaled to size 5.00046pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 731.
+(Font)              scaled to size 9.99893pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 731.
+(Font)              scaled to size 6.99925pt on input line 730.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 731.
+(Font)              scaled to size 4.99947pt on input line 730.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2387,7 +2387,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 16.43637pt on input line 884.
+(Font)              scaled to size 16.43637pt on input line 883.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2418,10 +2418,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55805 strings out of 476775
- 1300008 string characters out of 5808213
+ 55780 strings out of 476775
+ 1298433 string characters out of 5808213
  2218320 words of memory out of 5000000
- 75055 multiletter control sequences out of 15000+600000
+ 75030 multiletter control sequences out of 15000+600000
  519438 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  88i,17n,137p,1193b,4809s stack positions out of 10000i,1000n,20000p,200000b,200000s
