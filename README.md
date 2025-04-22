@@ -27,4 +27,4 @@ bibtex main.tex
 
 部分字体可能需要安装。
 
-ps:linux环境中可以使用texwork作为ide
+ps:linux环境中可以使用texmaker作为ide
