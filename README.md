@@ -4,7 +4,7 @@
 
 2024年画的latex模板...
 
-这个仓库是使用xetex和biber构建模板，参考当前目录下的`template.pdf`（学校教务发的word模板）作为模板绘制。
+使用xetex和biber构建模板，参考当前目录下的`template.pdf`（学校教务发的word模板）作为模板绘制。
 
 参考文献应写在`references.bib`中。
 
