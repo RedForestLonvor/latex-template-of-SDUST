@@ -12,7 +12,7 @@
 
 准备cover.pdf和my.jpg和teacher.png作为签名和封面。签名图片最好和模板中的my.jpg、teacher.png尺寸相同否则会引发排版变化。
 
-首先通过编辑main.tex、references.bib等数学论文，然后通过
+首先通过编辑main.tex、references.bib等内容，然后通过
 
 ```bash
 bibtex main.tex
