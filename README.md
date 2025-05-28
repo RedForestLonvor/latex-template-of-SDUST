@@ -17,7 +17,7 @@
 ```bash
 bibtex main.tex
 biber main
-bibtex mian.tex
+bibtex main.tex
 bibtex main.tex
 ```
 
